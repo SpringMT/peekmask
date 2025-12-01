@@ -1,3 +1,3 @@
-module github.com/makoto-haruyama/peekmask
+module github.com/SpringMT/peekmask
 
 go 1.25
